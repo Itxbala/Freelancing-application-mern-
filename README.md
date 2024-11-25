@@ -28,7 +28,7 @@ If you have any issues, please let me know in the issues section or directly to 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/Bhanu1776/Freelansters.git
+git clone https://github.com/konabalaji/Freelansters.git
 ```
 
 Create config.env file in `backend` folder and Fill your `.env` variables:
@@ -59,21 +59,17 @@ node server.js
 
 ## Contributing
 
-This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/Bhanu1776/Freelansters/issues) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
+This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/konabalaji/Freelansters/issues) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
 
 ## Contributors 💣
 
-<a href="https://github.com/Bhanu1776/Freelansters/graphs/contributors">
-  <img  src="https://contrib.rocks/image?repo=Bhanu1776/Freelansters" />
+<a href="https://github.com/konabalaji/Freelansters/graphs/contributors">
 </a>
 
-## Support Me 🫂
-
-<a href="https://www.buymeacoffee.com/Bhanu1776"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <hr>
 
-© 2022 Bhanu Sunka and contributors\
-This project is licensed under the [**MIT license**](https://github.com/Bhanu1776/Freelancers-Hub/blob/master/LICENSE).
+© 2024 kona balaji and contributors\
+This project is licensed under the [**MIT license**](https://github.com/konabalaji/Freelancers-Hub/blob/master/LICENSE).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
